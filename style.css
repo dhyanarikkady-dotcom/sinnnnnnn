@@ -85,3 +85,10 @@ body {
     box-shadow: inset 4px 4px 8px #a65b18, 
                 inset -4px -4px 8px #ffb37a;
 }
+.sinname{
+    margin-left: 139px;
+    color: white;
+    font-size: 45px;
+    font-family: auto;
+    font-weight: bold;
+}
